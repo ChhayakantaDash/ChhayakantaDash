@@ -1,15 +1,14 @@
 <h1 align="center">Hey 👋 I'm Chhayakanta Dash</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=CUDA+%7C+GPU+Programming+%7C+AI%2FML;Full-Stack+Developer;Hackathon+Builder;Always+Optimizing+Performance+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Hackathon+Builder;Always+Optimizing+Performance+⚡" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 CSE @ PMEC (CGPA 8.8)  
-⚡ GPU Programming + CUDA Optimization  
+🎓 CSE @ PMEC (CGPA 8.8)   
 🤖 AI/LLM App Development  
 🌐 Full Stack Engineer  
 🏆 Hackathon Winner × Multiple  
@@ -40,11 +39,10 @@ I enjoy building **fast systems + intelligent apps + real-world solutions**
 
 | Project | Description |
 |--------|-------------|
-| ⚡ CUDA Microbenchmarks | GPU kernel optimization, shared memory, tiling |
 | 🤖 TransNova | LLM-based multilingual translation platform |
 | 🧠 QuickAI | 5+ AI tools (image gen, bg removal, assistant) |
 | 📊 EvalSuite | Hackathon evaluation dashboard |
-| 🌾 Contract Farming | Farmers ↔ Buyers marketplace |
+
 
 ---
 
@@ -57,28 +55,35 @@ I enjoy building **fast systems + intelligent apps + real-world solutions**
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ChhayakantaDash&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChhayakantaDash&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChhayakantaDash&show_icons=true&theme=tokyonight" height="170"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChhayakantaDash&theme=tokyo-night&hide_border=true"/>
+</p>
+
 
 ---
 
-## 🐍 Contribution Snake (auto animated)
+## GitHub Visitors
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ChhayakantaDash/ChhayakantaDash/output/github-contribution-grid-snake.svg"/>
+  <img src="https://komarev.com/ghpvc/?username=ChhayakantaDash&label=Visitors&color=blueviolet&style=for-the-badge" />
 </p>
+
 
 ---
 
 ## 🏆 Achievements
 
-🥇 Smart India Hackathon Winner  
+🥇 Internal Smart India Hackathon Winner  
 🥇 Imagine AI Hackathon Winner  
 🥇 Ideathon Nirman Winner  
-🏅 Innovation Contest Finalist  
+🏅 ICDCIT Project Innovation Contest Winner  
 
 ---
 
