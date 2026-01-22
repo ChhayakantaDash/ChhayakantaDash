@@ -1,139 +1,99 @@
-<h1 align="center">Hi 👋, I'm Chhayakanta Dash</h1>
-<h3 align="center">GPU Programmer • AI/ML Engineer • Full-Stack Developer • Hackathon Builder</h3>
+<h1 align="center">Hey 👋 I'm Chhayakanta Dash</h1>
 
 <p align="center">
-  I build fast systems, smart models, and real-world products that scale 🚀
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=CUDA+%7C+GPU+Programming+%7C+AI%2FML;Full-Stack+Developer;Hackathon+Builder;Always+Optimizing+Performance+⚡" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-🎓 B.Tech CSE @ Parala Maharaja Engineering College (CGPA 8.8)  
-⚡ CUDA & GPU Optimization Enthusiast  
-🤖 AI/ML + LLM Application Developer  
-📱 Full-Stack & Mobile App Builder  
-🏆 Multiple Hackathon Winner  
-👨‍💼 Head Coordinator – Coding, Design & Development Club  
+🎓 CSE @ PMEC (CGPA 8.8)  
+⚡ GPU Programming + CUDA Optimization  
+🤖 AI/LLM App Development  
+🌐 Full Stack Engineer  
+🏆 Hackathon Winner × Multiple  
 
-I love working at the intersection of **performance + intelligence + usability**  
-→ making software both *fast* and *smart*.
-
----
-
-## 🚀 What I Work On
-
-- ⚡ High-Performance Computing (CUDA, Shared Memory, Tiling)
-- 🤖 AI Apps using LLMs (LangChain, RAG, Automation tools)
-- 🌐 Full-Stack Web Platforms (React + Node + DBs)
-- 📱 Mobile & Android Development
-- 📊 System Optimization & Benchmarking
+I enjoy building **fast systems + intelligent apps + real-world solutions**
 
 ---
 
 ## 🧰 Tech Stack
 
 ### 💻 Languages
-`C` `Python` `JavaScript` `TypeScript` `CUDA`
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia)
 
-### ⚙️ Frameworks & Libraries
-`React` `Node.js` `Express` `LangChain` `Streamlit`  
-`Tailwind CSS` `MongoDB` `MySQL` `NeonDB`
-
-### 🛠 Tools
-`GitHub` `Vercel` `Netlify` `VS Code` `Linux`
-
----
-
-## 🔥 Featured Projects
-
-### ⚡ CUDA Microbenchmarking & GPU Optimization
-- Shared memory tiling & loop unrolling
-- Reduced memory latency & improved throughput
-- Benchmarked GPU vs CPU performance
-- Focus on execution time, occupancy & memory efficiency
+### ⚙️ Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 
 ---
 
-### 🤖 TransNova — AI Translation Platform
-> Python • LangChain • Streamlit  
-- LLM-powered multilingual translation
-- API-driven backend
-- Clean web interface
+## 🔥 Highlight Projects
+
+| Project | Description |
+|--------|-------------|
+| ⚡ CUDA Microbenchmarks | GPU kernel optimization, shared memory, tiling |
+| 🤖 TransNova | LLM-based multilingual translation platform |
+| 🧠 QuickAI | 5+ AI tools (image gen, bg removal, assistant) |
+| 📊 EvalSuite | Hackathon evaluation dashboard |
+| 🌾 Contract Farming | Farmers ↔ Buyers marketplace |
 
 ---
 
-### 🧠 QuickAI — AI Tools Platform
-> React • Node • Express • Cloudinary • Clerk  
-- Image generation & background removal
-- AI blog title generator
-- AI assistant commands
-- Secure authentication + scalable backend
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ChhayakantaDash&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChhayakantaDash&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-### 🏆 EvalSuite — Hackathon Evaluation System
-> React • Node • MongoDB  
-- Judge scoring dashboards
-- Real-time results
-- Transparent & automated evaluation
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ChhayakantaDash&theme=tokyonight"/>
+</p>
 
 ---
 
-### 🎟 Joino — AI Event Registration
-- Automated attendee onboarding
-- AI-driven registration workflow
-- Improved event management efficiency
+## 🐍 Contribution Snake (auto animated)
 
----
-
-## 💼 Experience
-
-### Software Development Intern — Nexus Infotech
-- Built School Management System modules
-- Developed Inventory tracking & reporting
-- Improved administrative automation
-
-### Summer Intern — IIT Bhubaneswar
-- Optimized GPU kernels using CUDA
-- Implemented performance benchmarking suite
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChhayakantaDash/ChhayakantaDash/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
 ## 🏆 Achievements
 
-🥇 Smart India Hackathon – Winner  
-🥇 Imagine AI Hackathon (NIT RKL) – Winner  
-🥇 Ideathon Nirman Techfest – Winner  
-🏅 ICDICIT Innovation Contest – Finalist  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChhayakantaDash&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChhayakantaDash&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
-
-## 🌱 Currently Learning
-
-- Advanced CUDA optimization
-- Distributed GPU systems
-- MLOps & Deployment
-- Quantum Machine Learning
+🥇 Smart India Hackathon Winner  
+🥇 Imagine AI Hackathon Winner  
+🥇 Ideathon Nirman Winner  
+🏅 Innovation Contest Finalist  
 
 ---
 
 ## 🤝 Connect With Me
 
-📧 chhayakantdash143@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/<your-link>  
-🌐 Portfolio: <your-portfolio-link>  
-💻 GitHub: https://github.com/ChhayakantaDash
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:chhayakantdash143@gmail.com)
 
 ---
 
-⭐ *Always building. Always optimizing.*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChhayakantaDash&color=blueviolet&style=flat-square" />
+</p>
+
+---
+
+⭐ *Build Fast • Think Deep • Optimize Everything*
